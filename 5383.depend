@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1503656418 source:c:\users\user\desktop\acm\poj\5383\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<cstring>
+	<cmath>
+	<algorithm>
+	<functional>
+	<vector>
+	<queue>
+	<stack>
+	<set>
+	<map>
+
+1503654416 source:c:\users\user\desktop\acm\poj\5383\mi2.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<algorithm>
+	<cstring>
+
